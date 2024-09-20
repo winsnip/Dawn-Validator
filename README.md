@@ -5,7 +5,7 @@
 - Install Extension Dawn dan Sudah Punya Akun
 - Token Bot Father
 - ID Telegram
-- Ip (Optional)
+- Ip Proxy (Optional)
 - Mainkan
 
 ### 1. Install
